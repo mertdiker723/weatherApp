@@ -1,0 +1,3 @@
+export const Types = {
+    WEATHER_LOAD_SUCCESS: "WEATHER_LOAD_SUCCESS"
+}
